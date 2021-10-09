@@ -1,0 +1,7 @@
+i=99
+if (i==90):
+    print("Ok")
+elif (i>90):
+    print("Okay")
+else:
+    print("Not Okay")
